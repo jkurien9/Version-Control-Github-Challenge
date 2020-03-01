@@ -1,0 +1,11 @@
+What is the terminal?
+A terminal is what sends commands to your computer and tells it how to navigate. It is controlled by the users commands inserted in the shell, a program that the terminal runs by.$
+
+
+
+What is the major difference between Git and Github?
+Git is a VCS which has commands that allow the user to push and pull changes you've made to other people or your teams computer. Github on the other hand is just a website used to store Git repositories.$
+
+
+Why do we use Github?
+We use Github to hold the GIT repositories stored in its website. It keeps a clone of the repos and hosts for user to collaborate on projects currently being worked on using Git.$
